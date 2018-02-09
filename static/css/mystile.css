@@ -1,0 +1,21 @@
+    .jumbotron {
+        background-image: url("../img/header-img.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%;
+        margin-bottom: 0px;
+    }
+    
+    #product {
+        background-color: #ffffff;
+        background-image: url("../img/bg0.jpg");
+        background-size: 100%;
+    }
+    
+    .mypadding {
+        padding-top: 10px;
+    }
+    
+    .mycol {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
